@@ -1,4 +1,4 @@
 # testRepoForUpgrad
 
 upgrad
-succ
+suc
